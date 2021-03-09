@@ -1,3 +1,15 @@
+//all projects
+//maven { url "https://jitpack.io" } 
+
+//implementation 'com.github.jd-alexander:LikeButton:0.2.3'
+
+<!--    private fun initView(){
+        heart_btn.setOnLikeListener(object : OnLikeListener {
+            override fun liked(likeButton: LikeButton) {}
+            override fun unLiked(likeButton: LikeButton) {}
+        })
+    } -->
+
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
